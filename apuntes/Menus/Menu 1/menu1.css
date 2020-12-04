@@ -1,0 +1,8 @@
+
+  nav .dropdown > ul {
+    display: none;
+  }
+  
+  nav .dropdown:hover > ul {
+    display: block;
+  }
